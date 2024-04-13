@@ -60,7 +60,7 @@ export default function Home() {
           </div>
         </div>
 
-        {/* add contact details here just add whatsapp telegram and instagram  */}
+        {/* add contact details here just add whatsapp telegram */}
         {/* seperate page for quotes  */}
 
       </div>
